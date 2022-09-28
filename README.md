@@ -1,0 +1,1 @@
+# NodeJS Hexagonal Architecture example
